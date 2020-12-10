@@ -1,7 +1,8 @@
+<html>
+<head>
+<b>Welcome to my personal page</b>.</li>
 
-
-Welcome to my personal page
-
-Home
+<head>
+<b>Home</b>.<./li>
 About Me
 Gallery
